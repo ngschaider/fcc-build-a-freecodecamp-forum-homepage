@@ -51,4 +51,4 @@ $.getJSON(url, data => {
       lastActive: topicData.bumped_at,
     });
   });
-}); 
+});
